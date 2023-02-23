@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chinabel
-- 👀 I’m interested in software development
+- 👀 I love computer networking and backend development
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on the git concept
 
