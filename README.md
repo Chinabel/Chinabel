@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chinabel
 - 👀 I love computer networking and frontend development
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m currently learning software engineering and cybersecurity
 - 💞️ I’m looking to collaborate on the git concept
 
 <!---
